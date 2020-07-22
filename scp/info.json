@@ -1,0 +1,10 @@
+{
+	"author": [
+		"GrupMusicBot"
+	],
+	"description": "Remake of SCP Cog by Fox",
+    "install_msg": "Thanks for installing!",
+	"short": "Better Command for SCP Search",
+	"tags": ["scp", "foundation"],
+	"type": "COG"
+}

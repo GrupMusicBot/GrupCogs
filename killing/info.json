@@ -1,0 +1,10 @@
+{
+	"author": [
+		"GrupMusicBot"
+	],
+	"description": "Remake of Killer by CogsByAdrian",
+    "install_msg": "Thanks for installing!",
+	"short": "More Killing Messages",
+	"tags": ["killing", "random"],
+	"type": "COG"
+}

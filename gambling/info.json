@@ -1,0 +1,10 @@
+{
+	"author": [
+		"GrupMusicBot"
+	],
+	"description": "More Options of getting Credits",
+    "install_msg": "Thanks for installing!",
+	"short": "More Gambling Options",
+	"tags": ["gambling", "bank"],
+	"type": "COG"
+}

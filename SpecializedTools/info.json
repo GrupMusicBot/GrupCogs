@@ -1,0 +1,10 @@
+{
+	"author": [
+		"GrupMusicBot"
+	],
+	"description": "Specialized Tools for Staff, Members, and Streamers",
+    "install_msg": "Thanks for installing!",
+	"short": "Alert specific members about Streams",
+	"tags": ["twitch", "streaming"],
+	"type": "COG"
+}

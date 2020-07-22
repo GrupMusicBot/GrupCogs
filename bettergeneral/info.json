@@ -1,0 +1,10 @@
+{
+	"author": [
+		"GrupMusicBot"
+	],
+	"description": "Added Rock-Paper-Scissors but with a way to make money",
+    "install_msg": "Thanks for installing!",
+	"short": "Make Money off of RPS",
+	"tags": ["RPS", "bank"],
+	"type": "COG"
+}

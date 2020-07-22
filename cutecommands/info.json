@@ -1,0 +1,10 @@
+{
+	"author": [
+		"GrupMusicBot"
+	],
+	"description": "Not so Cute Commands",
+    "install_msg": "Thanks for installing!",
+	"short": "Cute Commands",
+	"tags": ["cute"],
+	"type": "COG"
+}
